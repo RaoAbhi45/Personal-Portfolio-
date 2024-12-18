@@ -1,10 +1,5 @@
-
-Here's a concise README for a personal portfolio:
-
-Personal Portfolio
 Welcome to my personal portfolio! This project showcases my skills, projects, and professional experiences. It’s designed to provide a glimpse into who I am and what I do.
-
-Features
+Features:
 About Me: Learn more about my background, education, and interests.
 Projects: Highlights of my key projects, including descriptions, technologies used, and links to demos or repositories.
 Skills: A comprehensive list of my technical and soft skills.
